@@ -1,0 +1,2 @@
+# SymfonyApp
+Simple Symfony Application
